@@ -12,12 +12,12 @@
  This project is a Pokemon Team Manager, which uses the existing PokeAPI to build a tool that allows you to build a standard competitive Pokemon team! 
 
  ## Table of Contents: 
- # Installation 
- # Usage 
- # License 
- # Contributing Authors 
- # Tests 
- # Miscellaneous 
+ - Installation 
+ - Usage 
+ - License 
+ - Contributing Authors 
+ - Tests 
+ - Miscellaneous 
 
  ## Installation Instructions:
  This project does not require user installation, as the functionality of the website mostly works through calls to our hosted server.
